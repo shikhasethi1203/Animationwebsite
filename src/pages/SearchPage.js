@@ -92,7 +92,7 @@ function SearchPage() {
                       alt=""
                     />
                   )}
-                {item.displayLink}
+                {item.displayLink} ...
 
                 <MoreVertIcon />
               </a>
