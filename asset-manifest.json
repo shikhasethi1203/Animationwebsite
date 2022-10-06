@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Animationwebsite/static/css/main.8db769ee.css",
+    "main.css": "/Animationwebsite/static/css/main.2482344b.css",
     "main.js": "/Animationwebsite/static/js/main.7a4d7fa3.js",
     "static/media/Alpha.gif": "/Animationwebsite/static/media/Alpha.7d32f24fb565030cdc98.gif",
     "static/media/web.gif": "/Animationwebsite/static/media/web.3251815d657aa9be2782.gif",
@@ -12,11 +12,11 @@
     "static/media/pexels-photo-117729.webp": "/Animationwebsite/static/media/pexels-photo-117729.9127a9daec7421efb4ac.webp",
     "static/media/pexels-photo-1229861.webp": "/Animationwebsite/static/media/pexels-photo-1229861.8406b2efc0ff931684b6.webp",
     "index.html": "/Animationwebsite/index.html",
-    "main.8db769ee.css.map": "/Animationwebsite/static/css/main.8db769ee.css.map",
+    "main.2482344b.css.map": "/Animationwebsite/static/css/main.2482344b.css.map",
     "main.7a4d7fa3.js.map": "/Animationwebsite/static/js/main.7a4d7fa3.js.map"
   },
   "entrypoints": [
-    "static/css/main.8db769ee.css",
+    "static/css/main.2482344b.css",
     "static/js/main.7a4d7fa3.js"
   ]
 }
