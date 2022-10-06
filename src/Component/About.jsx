@@ -9,6 +9,8 @@ const About = () => {
 <Common name="Welcome to About Page Reactjs" imgsrc= {web}
   visit= "/contact"
    btname="Contact Now"
+   
+   
    />
         </>
     );

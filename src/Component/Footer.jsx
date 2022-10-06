@@ -7,6 +7,7 @@ const Footer = () => {
         
           <p> Ⓒ2022 ShikhaPage.All Rights Reserved |Terms and Condition</p>
           </footer>
+          
         </>
     );
 }
