@@ -1,23 +1,22 @@
-import logo from './logo.svg';
-import './App.css';
+// import logo from './logo.svg';
+import "./App.css";
+import Home from "./pages/Home";
+// import Search from "./pages/Search";
+import SearchPage from "./pages/SearchPage";
+import { Routes, Route } from "react-router-dom";
 
 function App() {
+  // BEM
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    <div className="app">
+      {/* <h1>Hey Programmer, let's bulid the Google Clone❤️‍🔥!</h1> */}
+      <Routes>
+        <Route exact path="/" element={<Home />} />
+
+        {/* <Route path="/" element={<Search />} /> */}
+        {/* <h1>This is the search page</h1> */}
+        <Route exact path="/searchpage" element={<SearchPage />} />
+      </Routes>
     </div>
   );
 }

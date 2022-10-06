@@ -1,0 +1,12 @@
+{
+  "files.autoSave": "afterDelay",
+  "files.refactoring.autoSave": true,
+  "git.followTagsWhenSync": false,
+  "prettier.vueIndentScriptAndStyle": true,
+  "html.suggest.html5": true,
+  "html.format.extraLiners": "",
+  "typescript.autoClosingTags": true,
+  "html.autoClosingTags": true,
+  "javascript.autoClosingTags": true,
+  "task.allowAutomaticTasks": "auto"
+}
